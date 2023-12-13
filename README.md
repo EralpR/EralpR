@@ -1,3 +1,5 @@
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/859488196873158656?hideDiscrim=true)](https://discord.com/users/859488196873158656)
+
 <h1 align="center">Hi 👋, I'm Eralp</h1>
 <h3 align="center">A Full Stack Developer from Greece</h3>
 
